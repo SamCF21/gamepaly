@@ -1,9 +1,11 @@
 
-#SAM ES LO MAXIMO
+print("hello world, SAM ES LO MAX")
+
+#SAM SOY/ES LO MAXIMO
 #EN EFECTOOOOO 
-print('hello solecito')
 
 print("Goodbye world")
+
 
 
 
